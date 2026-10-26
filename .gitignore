@@ -1,0 +1,17 @@
+# Sistema y temporales
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Discos e imágenes de máquinas virtuales
+*.vmdk
+*.vdi
+*.iso
+*.box
+
+# Claves, tokens y configuración sensible
+*.pem
+*.key
+*.env
+config.json
